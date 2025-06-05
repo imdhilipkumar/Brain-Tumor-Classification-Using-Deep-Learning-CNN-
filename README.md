@@ -30,13 +30,6 @@ This project implements a **deep learning-based solution** to detect and classif
 
 ---
 
-## 📸 Sample Results
-
-> Sample tumor-detected image, cropped MRI, and prediction output plots
-
-_Add plots here if possible for better visualization_
-
----
 
 ## 🔬 Methodology
 
